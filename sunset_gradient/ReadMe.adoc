@@ -4,7 +4,7 @@
 :Revision: version1.0
 :License: Public Domain
 
-= Project: {sunlight}
+= Project: Sunlight
 
 
 == Step 1: Installation
